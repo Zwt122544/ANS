@@ -10,8 +10,8 @@ Augmented Negative Sampling (ANS)🚀 是一种用于协同过滤模型的增强
 
 ## Requirement![new](/gif/new.gif)  
 
-<details open>
-<summary></summary>
+<details close>
+<summary>点击展开安装依赖</summary>
 
 克隆 repo，并要求在 [**Python>=3.8.0**]🌟 (https://www.python.org/)  环境中安装requirements.txt
 <img src="/gif/python.gif" width="20" height="20">
