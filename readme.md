@@ -294,12 +294,18 @@ python main.py --model_name ANS --emb_size 64 --lr 1e-3 --l2 0 --loss_n BPR --da
 - `--model_name`: 模型
 - `--dataset`: 数据集名称
 - `--path`: 数据集路径
+## Star History
+<a href="https://star-history.com/#Zwt122544/ANS&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Zwt122544/ANS&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Zwt122544/ANS&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Zwt122544/ANS&type=Date" />
+ </picture>
+</a>
 
 
 ## License
-
 This project is licensed under the MIT License. It references ideas and methodologies from the following projects:
-
 - **[👉ANS的论文地址](https://arxiv.org/abs/2308.05972)**
 - **[👉ANS的github项目](https://github.com/Asa9aoTK/ANS-Recbole)**
 
